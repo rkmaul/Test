@@ -1,2 +1,2 @@
 # Test
-Test Ger post from json placeholder
+Test Get post from json placeholder
